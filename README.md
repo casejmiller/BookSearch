@@ -1,3 +1,5 @@
+This is a simple Book Searcher using the Google Books api, React, and Semantic UI.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
